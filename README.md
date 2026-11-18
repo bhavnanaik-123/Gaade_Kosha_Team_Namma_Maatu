@@ -407,11 +407,9 @@ The project is continuously deployed on **Vercel** connected to the production S
 ## 🔗 Project Links & Google Drive Placeholders
 
 * **Live Demo Website**: [https://gaadhe-kosha.vercel.app](https://gaadhe-kosha.vercel.app)
-* **Project Demonstration Video**: `[PASTE GOOGLE DRIVE VIDEO LINK HERE]`
-* **Complete Dataset Folder**: `[PASTE GOOGLE DRIVE DATASET LINK HERE]`
-* **Proverb Master Dataset (JSON)**: `[PASTE PROVERB JSON LINK HERE]`
-* **Situations Dataset (JSON)**: `[PASTE SITUATIONS JSON LINK HERE]`
-* **Project GitHub Repository**: `[PASTE GITHUB REPOSITORY URL HERE]`
+* **Project Demonstration Video**: [https://drive.google.com/drive/folders/1UTdwJPqiw6tJ2H4q5mnzM20_PSG_A9Tc?usp=drive_link ](https://drive.google.com/drive/folders/1UTdwJPqiw6tJ2H4q5mnzM20_PSG_A9Tc?usp=drive_link)
+* **Complete Dataset Folder**: [https://drive.google.com/drive/folders/1UTdwJPqiw6tJ2H4q5mnzM20_PSG_A9Tc?usp=drive_link ](https://drive.google.com/drive/folders/1UTdwJPqiw6tJ2H4q5mnzM20_PSG_A9Tc?usp=drive_link)
+* **Project GitHub Repository**: [https://github.com/bhavnanaik-123/Gaade_Kosha_Team_Namma_Maatu](https://github.com/bhavnanaik-123/Gaade_Kosha_Team_Namma_Maatu)
 
 ---
 
