@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #faf6ee;
+    color: #2b1810;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Custom delicate Kannada ornamental divider */
+.kannada-ornament {
+  background-image: radial-gradient(#9d1c1c 1px, transparent 1px);
+  background-size: 16px 16px;
+}
+
+/* Subtle parchment paper texture effect */
+.parchment-card {
+  background: linear-gradient(135deg, #fffefb 0%, #faf5ea 100%);
+  border: 1px solid #ebdcc5;
+}
+
+.parchment-card:hover {
+  border-color: #d8be96;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f5edd9;
+}
+::-webkit-scrollbar-thumb {
+  background: #caa86e;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9d1c1c;
+}
